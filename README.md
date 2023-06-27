@@ -4,7 +4,7 @@
 #
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CavalcantiMurilo&show_icons=true&count_private=true&hide_border=true&title_color=1350bf&icon_color=2a3c5c&text_color=0d0d21&bg_color=c5cfe0" alt="Murilo Cavalcanti github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CavalcantiMurilo&layout=compact&hide_border=true&title_color=1350bf&text_color=1350bf&bg_color=0d0d21" />
+  <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CavalcantiMurilo&layout=compact&hide_border=true&title_color=1350bf&text_color=1350bf&bg_color=0d0d21" />
 </div>
 
 <div align="center"> 
